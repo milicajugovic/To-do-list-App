@@ -1,0 +1,10 @@
+D:\Projects\To Do List App\To Do List App\bin\Debug\To Do List App.exe.config
+D:\Projects\To Do List App\To Do List App\bin\Debug\To Do List App.exe
+D:\Projects\To Do List App\To Do List App\bin\Debug\To Do List App.pdb
+D:\Projects\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+D:\Projects\To Do List App\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
+D:\Projects\To Do List App\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+D:\Projects\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+D:\Projects\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+D:\Projects\To Do List App\To Do List App\obj\Debug\To Do List App.exe
+D:\Projects\To Do List App\To Do List App\obj\Debug\To Do List App.pdb
